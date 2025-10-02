@@ -65,11 +65,11 @@ Menú Principal
 Cada opción abre un submenú con las operaciones correspondientes.
 
 Estructura de Archivos
-=main.cpp → Contiene el menú principal y la lógica de interacción con el usuario.
-=biblioteca.h → Define las entidades y métodos de gestión (autores, libros, estudiantes, préstamos).
-=README.md → Documentación del proyecto.
-=autores.txt → Datos de autores.
-=libros.txt → Datos de libros.
-=estudiantes.txt → Datos de estudiantes.
-=prestamos.txt → Datos de préstamos.
+=main.cpp  Contiene el menú principal y la lógica de interacción con el usuario.
+=biblioteca.h  Define las entidades y métodos de gestión (autores, libros, estudiantes, préstamos).
+=README.md  Documentación del proyecto.
+=autores.txt  Datos de autores.
+=libros.txt  Datos de libros.
+=estudiantes.txt  Datos de estudiantes.
+=prestamos.txt  Datos de préstamos.
 
